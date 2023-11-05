@@ -60,8 +60,7 @@ const createTableRow = (itemData, taxRate) => {
       ${additionalInfo}
     </td>
     <td class="StoreURL">
-      <span class="StoreName">${itemData.store_name}</span><br>
-      <a href="${itemData.buy_url}">Link</a>
+      <span class="StoreName"><a href="${itemData.buy_url}">${itemData.store_name}</a></span><br>
     </td>
     <td>${formatCurrency(itemData.price)}</td>
     <td class="Tax">${formatCurrency(taxAmount)}</td>
