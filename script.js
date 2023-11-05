@@ -62,7 +62,7 @@ const createTableRow = (itemData, taxRate) => {
     <td class="StoreURL">
       <span class="StoreName"><a href="${itemData.buy_url}">${itemData.store_name}</a></span><br>
     </td>
-    <td>${formatCurrency(itemData.price)}</td>
+    <td class="Price">${formatCurrency(itemData.price)}</td>
     <td class="Tax">${formatCurrency(taxAmount)}</td>
     <td class="Total">${formatCurrency(totalWithTax)}</td>
   `;
