@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#computerPartsTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#computerPartsTable,
+#computerPartsTable th,
+#computerPartsTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#computerPartsTable thead {
+    background-color: #f2f2f2;
+}
+
+#computerPartsTable tfoot {
+    font-weight: bold;
+    background-color: #e7e7e7;
+    text-align: right;
+}
+
+#computerPartsTable tfoot td {
+    background-color: transparent;
+}
+
+#computerPartsTable tfoot td:last-child {
+    border-left: none;
+}
+
+#computerPartsTable a {
+    color: #0645ad;
+    text-decoration: none;
+}
+
+#computerPartsTable a:hover {
+    text-decoration: underline;
+}
+
+#computerPartsTable th.Title {
+    text-align: left;
+}
+
+#computerPartsTable th.Quantity,
+#computerPartsTable td.Quantity,
+#computerPartsTable th.Item,
+#computerPartsTable td.Item,
+#computerPartsTable th.StoreURL,
+#computerPartsTable td.StoreURL {
+    text-align: center;
+}
+
+#computerPartsTable th.Price,
+#computerPartsTable td.Price,
+#computerPartsTable th.Tax,
+#computerPartsTable td.Tax,
+#computerPartsTable th.Total,
+#computerPartsTable td.Total {
+    text-align: right;
+}

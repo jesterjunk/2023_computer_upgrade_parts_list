@@ -1,0 +1,79 @@
+[
+    {
+        "qty": 1,
+        "item": "Power Supply",
+        "title": "Seasonic USA PRIME TX-1300 1300 Watts 80 Plus Titanium ATX Fully Modular Power Supply",
+        "store_name": "Micro Center",
+        "buy_url": "https://www.microcenter.com/product/653006/seasonic-usa-prime-tx-1300-1300-watts-80-plus-titanium-atx-fully-modular-power-supply",
+        "price": 439.99,
+        "sku": "439315",
+        "model": "SSR-1300TR",
+        "note": ""
+    },
+    {
+        "qty": 1,
+        "item": "Motherboard",
+        "title": "ASUS WRX80E-SAGE Pro WS SE WiFi II AMD sWRX8 eATX Motherboard",
+        "store_name": "Micro Center",
+        "buy_url": "https://www.microcenter.com/product/662591/asus-wrx80e-sage-pro-ws-se-wifi-ii-amd-swrx8-eatx-motherboard",
+        "price": 999.99,
+        "sku": "538082",
+        "model": "WRX80ESAGESEWF2",
+        "note": "This is listed at a price of <strong>$1,099.99</strong> on the Micro Center website, but I adjusted the price based on the expectation that they would price match B&H's price of <strong>$999.99</strong>"
+    },
+    {
+        "qty": 1,
+        "item": "Processor",
+        "title": "AMD Ryzen Threadripper PRO 5955WX Chagall PRO 4.0GHz 16-Core sWRX8 Boxed Processor - Heatsink Not Included",
+        "store_name": "Micro Center",
+        "buy_url": "https://www.microcenter.com/product/660754/amd-ryzen-threadripper-pro-5955wx-chagall-pro-40ghz-16-core-swrx8-boxed-processor-heatsink-not-included",
+        "price": 999.99,
+        "sku": "518951",
+        "model": "100-100000447WO",
+        "note": ""
+    },
+    {
+        "qty": 8,
+        "item": "Memory",
+        "title": "Samsung M393A8G40AB2-CWE 64GB 2Rx4 PC4-25600 ECC Registered Server Memory RAM",
+        "store_name": "eBay",
+        "buy_url": "https://www.ebay.com/itm/224978756694",
+        "price": 124.99,
+        "sku": "224978756694",
+        "model": "M393A8G40AB2-CWE",
+        "note": ""
+    },
+    {
+        "qty": 1,
+        "item": "Video Card",
+        "title": "SAPPHIRE NITRO Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 x16 ATX Video Card 11322-01-40G",
+        "store_name": "Newegg",
+        "buy_url": "https://www.newegg.com/sapphire-radeon-rx-7900-xtx-11322-01-40g/p/N82E16814202428",
+        "price": 1029.95,
+        "sku": "N82E16814202428",
+        "model": "11322-01-40G",
+        "note": ""
+    },
+    {
+        "qty": 1,
+        "item": "Monitor",
+        "title": "Samsung LS57CG952NNXZAOdyssey Neo G9 57\" Dual 4K UHD (7680 x 2160) 240Hz Curved Screen Monitor",
+        "store_name": "Micro Center",
+        "buy_url": "https://www.microcenter.com/product/671921/samsung-ls57cg952nnxzaodyssey-neo-g9-57-dual-4k-uhd-(7680-x-2160)-240hz-curved-screen-monitor",
+        "price": 2499.99,
+        "sku": "619445",
+        "model": "LS57CG952NNXZA",
+        "note": ""
+    },
+    {
+        "qty": 1,
+        "item": "SSD<br><br>for OS",
+        "title": "Seagate 4TB FireCuda 530 M.2 SSD without Heatsink",
+        "store_name": "B&H",
+        "buy_url": "https://www.bhphotovideo.com/c/product/1657983-REG/seagate_zp4000gm3a013_4tb_firecuda_530_ssd.html",
+        "price": 359.99,
+        "sku": "SEZP4GM3A013",
+        "model": "ZP4000GM3A013",
+        "note": ""
+    }
+]
