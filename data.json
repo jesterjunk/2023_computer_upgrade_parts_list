@@ -46,12 +46,12 @@
     {
         "qty": 1,
         "item": "Video Card",
-        "title": "SAPPHIRE NITRO Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 x16 ATX Video Card 11322-01-40G",
-        "store_name": "Newegg",
-        "buy_url": "https://www.newegg.com/sapphire-radeon-rx-7900-xtx-11322-01-40g/p/N82E16814202428",
-        "price": 1029.95,
-        "sku": "N82E16814202428",
-        "model": "11322-01-40G",
+        "title": "ASUS - NVIDIA GeForce RTX 4090 Overclock 24GB GDDR6X PCI Express 4.0 Strix Graphics Card - Black",
+        "store_name": "Best Buy",
+        "buy_url": "https://www.bestbuy.com/site/asus-nvidia-geforce-rtx-4090-overclock-24gb-gddr6x-pci-express-4-0-strix-graphics-card-black/6524435.p?skuId=6524435",
+        "price": 1999.99,
+        "sku": "6524435",
+        "model": "ROG-STRIX-RTX4090-O24G-GAMING",
         "note": ""
     },
     {
